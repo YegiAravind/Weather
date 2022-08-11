@@ -7,3 +7,4 @@
 <p>This is a website which gives the details of weather conditions at different places throughtout the world. It gives us the information from weather API which consists of weather report at different countries. It enables us to view the temperature, humidity, rainfall conditions in a particular city, so that we can predict the weather conditions for any situation.</p>
 
 <p> We can calculate the average weather condition in a week thereby we can conduct any important events. Example: CRICKET.</p
+<p> The link to my website is: https://lemon-plant-06ac7af10.1.azurestaticapps.net </p>
